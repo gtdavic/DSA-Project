@@ -1,2 +1,8 @@
 # DSA-Project
-My first portfolio while learning at the Incubator Hub
+
+# DSA Class Documentation
+
+## Project Topic: E-Commerce Sales Analysis
+
+### Project Overview
+
