@@ -18,3 +18,19 @@ The primary data source used here is Data Sale.csv, an open-source dataset that 
 - SQL Server (for Querying and Analysis)
 - Power BI ( for creating a report)
 - MS PowerPoint (for presentation)
+
+### Data Cleaning and Preparation
+
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis.
+
+E.g.
+```
+SELECT A,B,C
+WHERE A > B
+```
